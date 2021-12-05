@@ -1,0 +1,146 @@
+trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,shape_id,wheelchair_accessible,bikes_allowed,block_id,block_name
+3315673,1,68130,Courthouse,white-1,0,112831 169847,2,,white-1,white-1
+3315661,1,68130,Courthouse,white-1,0,112832 169848,2,,white-1,white-1
+3315662,1,68130,Courthouse,white-1,0,112833 169849,2,,white-1,white-1
+3315663,1,68130,Courthouse,white-1,0,112833 169849,2,,white-1,white-1
+3315664,1,68130,Courthouse,white-1,0,112834 169850,2,,white-1,white-1
+3315665,1,68130,Courthouse,white-1,0,112835 169851,2,,white-1,white-1
+3315667,1,68130,Courthouse,white-1,0,112835 169851,2,,white-1,white-1
+3315666,1,68130,Courthouse,white-1,0,112835 169851,2,,white-1,white-1
+3315668,1,68130,Courthouse,white-1,0,112836 169852,2,,white-1,white-1
+3315669,1,68130,Courthouse,white-1,0,112836 169852,2,,white-1,white-1
+3315670,1,68130,Courthouse,white-1,0,112837 169853,2,,white-1,white-1
+3315671,1,68130,Courthouse,white-1,0,112838 169854,2,,white-1,white-1
+3315672,1,68130,Courthouse,white-1,0,112839 169855,2,,white-1,white-1
+3315674,1,68130,Calvert Pines Senior Center,white-1,1,112840 169856,2,,white-1,white-1
+3315675,1,68130,Calvert Pines Senior Center,white-1,1,112840 169856,2,,white-1,white-1
+3315676,1,68130,Calvert Pines Senior Center,white-1,1,112840 169856,2,,white-1,white-1
+3315677,1,68130,Calvert Pines Senior Center,white-1,1,112840 169856,2,,white-1,white-1
+3315678,1,68130,Calvert Pines Senior Center,white-1,1,112840 169856,2,,white-1,white-1
+3315679,1,68130,Calvert Pines Senior Center,white-1,1,112840 169856,2,,white-1,white-1
+3315680,1,68130,Calvert Pines Senior Center,white-1,1,112840 169856,2,,white-1,white-1
+3315681,1,68130,Calvert Pines Senior Center,whtie-1,1,112840 169856,2,,whtie-1,whtie-1
+3315682,1,68130,Calvert Pines Senior Center,white-1,1,112840 169856,2,,white-1,white-1
+3315683,1,68130,Calvert Pines Senior Center,white-1,1,112840 169856,2,,white-1,white-1
+3315684,1,68130,Calvert Pines Senior Center,white-1,1,112840 169856,2,,white-1,white-1
+3315685,1,68130,Calvert Pines Senior Center,white-1,1,112840 169856,2,,white-1,white-1
+3315686,1,68130,Calvert Pines Senior Center,white-1,1,112840 169856,2,,white-1,white-1
+3315695,1,68131,Calvert Pines Senior Center,white-1,1,112840 169856,2,,,
+3315696,1,68131,Calvert Pines Senior Center,white-1,1,112840 169856,2,,,
+3315697,1,68131,Calvert Pines Senior Center,white-1,1,112840 169856,2,,,
+3315698,1,68131,Calvert Pines Senior Center,white-1,1,112840 169856,2,,,
+3315700,1,68131,Calvert Pines Senior Center,white-2,1,112840 169856,2,,white-2,white-2
+3315701,1,68131,Calvert Pines Senior Center,white-2,1,112840 169856,2,,white-2,white-2
+3315702,1,68131,Calvert Pines Senior Center,white-2,1,112840 169856,2,,white-2,white-2
+3315687,1,68131,Courthouse,white-1,0,112841 169857,2,,,
+3315688,1,68131,Courthouse,white-1,0,112841 169857,2,,,
+3315689,1,68131,Courthouse,white-1,0,112841 169857,2,,,
+3315690,1,68131,Courthouse,white-1,0,112841 169857,2,,,
+3315692,1,68131,Courthouse,white-2,0,112841 169857,2,,white-2,white-2
+3315693,1,68131,Courthouse,white-2,0,112842 169858,2,,white-2,white-2
+3315694,1,68131,Courthouse,white-2,0,112842 169858,2,,white-2,white-2
+4948942,2,68130,Main Street / Courthouse,green-2,0,Green_S1_OB 169859,2,,green-2,green-2
+4948941,2,68130,Main Street / Courthouse,green-2,0,Green_S1_OB 169859,2,,green-2,green-2
+3315705,2,68130,Main Street / Courthouse,green-2,0,Green_S1_OB 169859,2,,green-2,green-2
+4948943,2,68130,Main Street / Courthouse,green-2,0,Green_S2_OB 169860,2,,green-2,green-2
+3315707,2,68130,Main Street / Courthouse,green-2,0,Green_S2_OB 169860,2,,green-2,green-2
+3315709,2,68130,Calvert Pines Senior Center,green-2,1,Green_S1_IB 169861,2,,green-2,green-2
+3315710,2,68130,Calvert Pines Senior Center,green-2,1,Green_S1_IB 169861,2,,green-2,green-2
+3315711,2,68130,Calvert Pines Senior Center,green-1,1,Green_S2_IB 169862,2,,green-1,green-1
+4948940,2,68130,Calvert Pines Senior Center,green-2,1,Green_S2_IB 169862,2,,green-2,green-2
+4948944,2,68130,Calvert Pines Senior Center,green-2,1,Green_S2_IB 169862,2,,green-2,green-2
+3315713,3,68130,Dunkirk Park,orange-1,0,Orange_S1_OB 169863,2,,orange-1,orange-1
+3315714,3,68130,Dunkirk Park,orange-2,0,Orange_S1_OB 169863,2,,orange-2,orange-2
+3315715,3,68130,Dunkirk Park,orange-1,0,Orange_S2_OB 169864,2,,orange-1,orange-1
+3315716,3,68130,Dunkirk Park,orange-2,0,Orange_S2_OB 169864,2,,orange-2,orange-2
+3315717,3,68130,Dunkirk Park,orange-2,0,Orange_S2_OB 169864,2,,orange-2,orange-2
+3315718,3,68130,Sunderland Park and Ride,orange-1,1,Orange_S1_IB 169865,2,,orange-1,orange-1
+3315719,3,68130,Sunderland Park and Ride,orange-2,1,Orange_S1_IB 169865,2,,orange-2,orange-2
+3315721,3,68130,Sunderland Park and Ride,orange-2,1,Orange_S1_IB 169865,2,,orange-2,orange-2
+3315722,3,68130,Calvert Pines Senior Center,orange-1,1,Orange_S2_IB 169866,2,,orange-1,orange-1
+3315723,3,68130,Calvert Pines Senior Center,orange-2,1,Orange_S2_IB 169866,2,,orange-2,orange-2
+3315724,4,68130,North Beach Community Center,pink-1,0,Pink_S1_OB 169867,2,,pink-1,pink-1
+3315725,4,68130,North Beach Community Center,pink-1,0,Pink_S2_OB 169868,2,,pink-1,pink-1
+3315726,4,68130,North Beach Community Center,pink-1,0,Pink_S2_OB 169868,2,,pink-1,pink-1
+3315727,4,68130,North Beach Community Center,pink-1,0,Pink_S2_OB 169868,2,,pink-1,pink-1
+3315728,4,68130,North Beach Community Center,pink-1,0,Pink_S2_OB 169868,2,,pink-1,pink-1
+3315729,4,68130,North Beach Community Center,pink-1,0,Pink_S2_OB 169868,2,,pink-1,pink-1
+3315734,4,68130,Calvert Pines Senior Center,pink-1,1,Pink_S2_IB 169869,2,,pink-1,pink-1
+3315735,4,68130,Calvert Pines Senior Center,pink-1,1,Pink_S2_IB 169869,2,,pink-1,pink-1
+3315736,4,68130,Calvert Pines Senior Center,pink-1,1,Pink_S2_IB 169869,2,,pink-1,pink-1
+3315737,4,68130,Calvert Pines Senior Center,pink-1,1,Pink_S2_IB 169869,2,,pink-1,pink-1
+3315738,4,68130,Calvert Pines Senior Center,pink-1,1,Pink_S2_IB 169869,2,,pink-1,pink-1
+3315739,4,68131,Calvert Pines Senior Center,pink-1,1,Pink_S2_IB 169869,2,,,
+3315740,4,68131,Calvert Pines Senior Center,pink-1,1,Pink_S2_IB 169869,2,,,
+3315741,4,68131,Calvert Pines Senior Center,pink-2,1,Pink_S2_IB 169869,2,,pink-2,pink-2
+3315730,4,68131,North Beach Community Center,pink-1,0,Pink_OB_Sat 169870,2,,,
+3315731,4,68131,North Beach Community Center,pink-1,0,Pink_OB_Sat 169870,2,,,
+3315732,4,68131,North Beach Community Center,pink-2,0,Pink_OB_Sat 169870,2,,pink-2,pink-2
+3315733,4,68130,Calvert Pines Senior Center,pink-1,1,Pink_IB_Sat 169871,2,,pink-1,pink-1
+3315742,5,68130,Solomons,blue-1,0,Blue_S1_OB 169872,2,,blue-1,blue-1
+3315743,5,68130,Solomons,blue-1,0,Blue_S2_OB 169873,2,,blue-1,blue-1
+4948950,5,68130,Solomons,blue-1,0,Blue_S2_OB 169873,2,,blue-1,blue-1
+4948951,5,68130,Solomons,blue-1,0,Blue_S2_OB 169873,2,,blue-1,blue-1
+4948952,5,68130,Solomons,blue-1,0,Blue_S2_OB 169873,2,,blue-1,blue-1
+4948948,5,68131,Solomons,blue-1,0,Blue_S2_OB 169873,2,,blue-2,blue-2
+3315753,5,68131,Solomons,blue-1,0,Blue_S2_OB 169873,2,,blue-2,blue-2
+4948949,5,68131,Solomons,blue-1,0,Blue_S2_OB 169873,2,,blue-2,blue-2
+3315747,5,68130,Prince Frederick,blue-1,1,Blue_S1_IB 169874,2,,blue-1,blue-1
+4948945,5,68130,Prince Frederick,blue-1,1,Blue_S2_IB 169875,2,,blue-1,blue-1
+4948946,5,68130,Prince Frederick,blue-1,1,Blue_S2_IB 169875,2,,blue-1,blue-1
+3315750,5,68130,Prince Frederick,blue-1,1,Blue_S2_IB 169875,2,,blue-1,blue-1
+4948947,5,68130,Prince Frederick,blue-1,1,Blue_S3_IB 169876,2,,blue-1,blue-1
+3315755,5,68131,Prince Frederick,blue-1,1,Blue_IB_Sat 169877,2,,blue-2,blue-2
+3315756,5,68131,Prince Frederick,blue-1,1,Blue_IB_Sat 169877,2,,blue-2,blue-2
+3315757,5,68131,Prince Frederick,blue-1,1,Blue_IB_Sat 169877,2,,blue-2,blue-2
+3315758,6,68130,Loop,yellow-1,0,112843 169878,2,,yellow-1,yellow-1
+3315759,6,68130,Loop,yellow-1,0,112844 169879,2,,yellow-1,yellow-1
+3315760,6,68130,Loop,yellow-1,0,112845 169880,2,,yellow-1,yellow-1
+3315761,6,68130,Loop,yellow-2,0,112846 169881,2,,yellow-2,yellow-2
+3315762,6,68130,Loop,yellow-2,0,112847 169882,2,,yellow-2,yellow-2
+3324550,7,68132,Ranch Estates,gold-1,0,Gold_S1_OB 169883,2,,gold-1,gold-1
+3324551,7,68134,Ranch Estates,gold-1,0,Gold_S1_OB 169883,2,,gold-1,gold-1
+4948939,7,68133,Ranch Estates,721am Summer,0,Gold_S1_OB 169883,,,,
+3324553,7,68132,Ranch Estates,gold-1,0,Gold_S2_OB 169884,2,,gold-1,gold-1
+3324554,7,68132,Ranch Estates,gold-1,0,Gold_S2_OB 169884,2,,gold-1,gold-1
+3324555,7,68132,Ranch Estates,gold-2,0,Gold_S2_OB 169884,2,,gold-2,gold-2
+3324556,7,68132,Ranch Estates,gold-2,0,Gold_S2_OB 169884,2,,gold-2,gold-2
+3324557,7,68132,Ranch Estates,gold-2,0,Gold_S2_OB 169884,2,,gold-2,gold-2
+3324558,7,68134,Ranch Estates,gold-1,0,Gold_S2_OB 169884,2,,gold-1,gold-1
+3324559,7,68134,Ranch Estates,gold-1,0,Gold_S2_OB 169884,2,,gold-1,gold-1
+3324560,7,68134,Ranch Estates,gold-2,0,Gold_S2_OB 169884,2,,gold-1,gold-1
+3324561,7,68134,Ranch Estates,gold-2,0,Gold_S2_OB 169884,2,,gold-1,gold-1
+3324562,7,68134,Ranch Estates,gold-2,0,Gold_S2_OB 169884,2,,gold-1,gold-1
+3324568,7,68132,Southern Pines Community Center,gold-1,1,Gold_S1_IB 169885,2,,gold-1,gold-1
+3324575,7,68134,Southern Pines Community Center,gold-1,1,Gold_S1_IB 169885,2,,gold-1,gold-1
+3324574,7,68133,Southern Pines Community Center,gold-1,1,Gold_S1_IB 169885,2,,,
+3324569,7,68132,Southern Pines Community Center,gold-1,1,Gold_S2_IB 169886,2,,gold-1,gold-1
+3324571,7,68132,Southern Pines Community Center,gold-2,1,Gold_S2_IB 169886,2,,gold-2,gold-2
+3324572,7,68132,Southern Pines Community Center,gold-2,1,Gold_S2_IB 169886,2,,gold-2,gold-2
+3324577,7,68134,Southern Pines Community Center,gold-1,1,Gold_S2_IB 169886,2,,gold-1,gold-1
+3324579,7,68134,Southern Pines Community Center,gold-2,1,Gold_S2_IB 169886,2,,gold-1,gold-1
+3324581,7,68134,Southern Pines Community Center,gold-2,1,Gold_S2_IB 169886,2,,gold-1,gold-1
+3324576,7,68133,Southern Pines Community Center,gold-1,1,Gold_S2_IB 169886,2,,,
+3324578,7,68133,Southern Pines Community Center,gold-2,1,Gold_S2_IB 169886,2,,,
+3324580,7,68133,Southern Pines Community Center,gold-2,1,Gold_S2_IB 169886,2,,,
+3324570,7,68132,Southern Pines Community Center,gold-1,1,Gold_S3_IB 169887,2,,gold-1,gold-1
+3324583,7,68134,Southern Pines Community Center,gold-1,1,Gold_S3_IB 169887,2,,gold-1,gold-1
+3324582,7,68133,Southern Pines Community Center,gold-1,1,Gold_S3_IB 169887,2,,,
+3324573,7,68132,Southern Pines Community Center,gold-2,1,Gold_S4_IB 169888,2,,gold-2,gold-2
+3324585,7,68134,Southern Pines Community Center,gold-2,1,Gold_S4_IB 169888,2,,gold-1,gold-1
+3324584,7,68133,Southern Pines Community Center,gold-2,1,Gold_S4_IB 169888,2,,,
+3324563,7,68133,Ranch Estates,gold-1,0,112817 169889,2,,,
+3324564,7,68133,Ranch Estates,gold-1,0,112817 169889,2,,,
+3324565,7,68133,Ranch Estates,gold-2,0,112817 169889,2,,,
+3324566,7,68133,Ranch Estates,gold-2,0,112817 169889,2,,,
+3324567,7,68133,Ranch Estates,gold-2,0,112817 169889,2,,,
+3324587,8,68130,Calvert Pines Senior Center,purple-1,0,112826 169890,2,,purple-1,purple-1
+3324588,8,68130,Calvert Pines Senior Center,purple-1,0,112826 169890,2,,purple-1,purple-1
+3324589,8,68130,Calvert Pines Senior Center,purple-1,0,112826 169890,2,,purple-1,purple-1
+3324586,8,68130,Calvert Pines Senior Center,purple-1,0,112827 169891,2,,purple-1,purple-1
+3324590,8,68130,Calvert Pines Senior Center,purple-1,0,112828 169892,2,,purple-1,purple-1
+3324591,8,68130,Charlotte Hall Food Lion,purple-1,1,112829 169893,2,,purple-1,purple-1
+3324592,8,68130,Charlotte Hall Food Lion,purple-1,1,112829 169893,2,,purple-1,purple-1
+3324593,8,68130,Charlotte Hall Food Lion,purple-1,1,112829 169893,2,,purple-1,purple-1
+3324594,8,68130,Charlotte Hall Food Lion,purple-1,1,112829 169893,2,,purple-1,purple-1
+3324595,8,68130,Calvert County Industrial Park,purple-1,1,112830 169894,2,,purple-1,purple-1

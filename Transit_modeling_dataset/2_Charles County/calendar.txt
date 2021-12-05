@@ -1,0 +1,4 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+mtwtfs,1,1,1,1,1,1,0,20171224,20210826
+sat,0,0,0,0,0,1,0,20171224,20190228
+mtwtf,1,1,1,1,1,0,0,20181224,20210228
