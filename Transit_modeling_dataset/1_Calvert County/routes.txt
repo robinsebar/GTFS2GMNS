@@ -1,9 +1,0 @@
-route_id,route_short_name,route_long_name,route_desc,route_url,route_color,route_text_color,route_type
-1,White,Prince Frederick Shuttle I,,https://www.co.cal.md.us/DocumentCenter/View/6641/Prince-Frederick-1-White?bidId=,000000,FFFFFF,3
-2,Green,Prince Frederick Shuttle II,,https://www.co.cal.md.us/DocumentCenter/View/6642/Prince-Frederick-2-Green?bidId=,17ac32,FFFFFF,3
-3,Orange,Dunkirk Route,,https://www.co.cal.md.us/DocumentCenter/View/6636/Dunkirk-Route-Orange?bidId=,FF7D00,FFFFFF,3
-4,Pink,North Route,,https://www.co.cal.md.us/DocumentCenter/View/6640/North-Route-Pink?bidId=,ff66b3,FFFFFF,3
-5,Blue,South Route,,https://www.co.cal.md.us/DocumentCenter/View/6643/South-Route-Blue?bidId=,008ed2,FFFFFF,3
-6,Yellow,Mid-County,,https://www.co.cal.md.us/DocumentCenter/View/6639/Mid-County-Yellow?bidId=,fcf841,000000,3
-7,Gold,Lusby Shuttle,,https://www.co.cal.md.us/DocumentCenter/View/9768/Lusby-Shuttle-Gold?bidId=,d7a200,FFFFFF,3
-8,Purple,Charlotte Hall,,https://www.co.cal.md.us/DocumentCenter/View/18183/Charlotte-Hall-Purple-Route?bidId=,9D44B5,FFFFFF,3
