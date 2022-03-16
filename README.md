@@ -4,6 +4,9 @@ The General Transit Feed Specification [(GTFS)](https://gtfs.org/) defines a com
 
 The python code is developed based on the C++ version in NeXTA data hub, which is supported by the FHWA research project titled: "the Effective Integration of Analysis, Modeling, and Simulation Tools, AMS Data Hub Concept of operations". With external link to https://www.fhwa.dot.gov/publications/research/operations/13036/004.cfm and https://github.com/asu-trans-ai-lab/nexta.
 
+Here is our Google document of [gtfs2gmns users' guide](https://docs.google.com/document/d/1-A2g4ZjJu-gzusEKcSoOXzr95S3tv7sj/edit?usp=sharing&ouid=112385243549486266715&rtpof=true&sd=true). Please feel free to add your comments！
+
+
 ## Installation
 
 GTFS2GMNS has been published on [PyPI](https://pypi.org/project/gtfs2gmns/), and can be installed using:
