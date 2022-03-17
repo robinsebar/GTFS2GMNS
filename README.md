@@ -5,6 +5,7 @@ The open-source Python codes (GTFS2GMNS) is released to facilitate researchers a
 Your comments will be valuable for code review and improvement. Please feel free to add your comments to our Google document of [GTFS2GMNS Users' Guide](https://docs.google.com/document/d/1-A2g4ZjJu-gzusEKcSoOXzr95S3tv7sj/edit?usp=sharing&ouid=112385243549486266715&rtpof=true&sd=true).
 
 
+
 ## Getting Started
 
 ### *Download GTFS Data*
@@ -37,6 +38,9 @@ if __name__ == '__main__':
 The input parameter  `input_gtfs_path` is the path of GTFS data, and the parameter  `output_gmns_path` is the path of output GMNS files. Users can custom the parameter  `time_period`, such as 12:00 to 13:00.
 
 The output files include node.csv and link.csv.
+
+
+
 
 ## Main Steps
 
@@ -90,9 +94,13 @@ The output files include node.csv and link.csv.
 
 - add service links between each route stop pair of each trip
 
+
+
 ## Visualization
 
 You can visualize generated networks using [NeXTA](https://github.com/xzhou99/NeXTA-GMNS) or [QGIS](https://qgis.org/).
+
+
 
 ## Upcoming Features
 
