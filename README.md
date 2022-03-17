@@ -1,19 +1,9 @@
 ## GTFS2GMNS
 
-The General Transit Feed Specification [(GTFS)](https://gtfs.org/) defines a common format for public transportation schedules and associated geographic information. It is used by thousands of public transport providers. As a data conversion tool, gtfs2gmns, can directly convert the GTFS data to node, link, and agent files in the [GMNS](https://github.com/zephyr-data-specs/GMNS) format. In addition, this tool can merge the transit network into the road network which is obtained from Open Street Map via [OSM2GMNS](https://github.com/jiawei92/OSM2GMNS).
+The open-source Python codes (GTFS2GMNS) is released to facilitate researchers and planners to construct the multi-modal transit networks easily from generic [General Transit Feed Specification (GTFS)](https://gtfs.org/) to the network modeling format in [General Modeling Network Specification (GMNS)](https://github.com/zephyr-data-specs/GMNS). The converted physical and service networks in GMNS format are more convenient for network modeling tasks such as transit network routing, traffic flow assignment, simulation and service network optimization.
 
-The python code is developed based on the C++ version in NeXTA data hub, which is supported by the FHWA research project titled: "the Effective Integration of Analysis, Modeling, and Simulation Tools, AMS Data Hub Concept of operations". With external link to https://www.fhwa.dot.gov/publications/research/operations/13036/004.cfm and https://github.com/asu-trans-ai-lab/nexta.
+Please feel free to add your comments to our Google document of [gtfs2gmns Users' Guide](https://docs.google.com/document/d/1-A2g4ZjJu-gzusEKcSoOXzr95S3tv7sj/edit?usp=sharing&ouid=112385243549486266715&rtpof=true&sd=true). We would greatly appreciate your helping us to enhance our code.
 
-Here is our Google document of [gtfs2gmns Users' Guide](https://docs.google.com/document/d/1-A2g4ZjJu-gzusEKcSoOXzr95S3tv7sj/edit?usp=sharing&ouid=112385243549486266715&rtpof=true&sd=true). Please feel free to add your comments！
-
-
-## Installation
-
-GTFS2GMNS has been published on [PyPI](https://pypi.org/project/gtfs2gmns/), and can be installed using:
-
-```python
-pip install gtfs2gmns
-```
 
 ## Getting Started
 
