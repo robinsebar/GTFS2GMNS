@@ -35,7 +35,7 @@ if __name__ == '__main__':
     gtfs2gmns(input_gtfs_path, output_gmns_path)
 ```
 
-The input parameter  `input_gtfs_path` is the path of GTFS data, and the parameter  `output_gmns_path` is the path of output GMNS files. Users can custom the parameter  `time_period`, such as 12:00 to 13:00.
+The input parameter  `input_gtfs_path` is the path of GTFS data, and the parameter  `output_gmns_path` is the path of output GMNS files. Users can customize the parameter  `time_period`, such as 12:00 to 13:00.
 
 The output files include node.csv and link.csv.
 
