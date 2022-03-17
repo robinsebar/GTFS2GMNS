@@ -2,7 +2,7 @@
 
 The open-source Python codes (GTFS2GMNS) is released to facilitate researchers and planners to construct the multi-modal transit networks easily from generic [General Transit Feed Specification (GTFS)](https://gtfs.org/) to the network modeling format in [General Modeling Network Specification (GMNS)](https://github.com/zephyr-data-specs/GMNS). The converted physical and service networks in GMNS format are more convenient for network modeling tasks such as transit network routing, traffic flow assignment, simulation and service network optimization.
 
-Please feel free to add your comments to our Google document of [GTFS2GMNS Users' Guide](https://docs.google.com/document/d/1-A2g4ZjJu-gzusEKcSoOXzr95S3tv7sj/edit?usp=sharing&ouid=112385243549486266715&rtpof=true&sd=true). We would greatly appreciate your helping us to enhance our code.
+Your comments will be valuable for code review and improvement. Please feel free to add your comments to our Google document of [GTFS2GMNS Users' Guide](https://docs.google.com/document/d/1-A2g4ZjJu-gzusEKcSoOXzr95S3tv7sj/edit?usp=sharing&ouid=112385243549486266715&rtpof=true&sd=true).
 
 
 ## Getting Started
@@ -16,24 +16,27 @@ On TransitFeed [homepage](https://transitfeeds.com/), users can browse and downl
 * trip.txt
 * stop_times.txt
 * agency.txt
-
-### *Set the Directory*
-
-GTFS2GMNS can handle the transit data from several agencies. Users need to configure different sub-files in the same directory.  There are two agencies in the Raleigh, GoRaleigh and NCSU Wolfline. So under the `Raleigh` folder, two subfolders `gtfs1` and `gtfs2` are set up, and each subfolder includes its own GTFS data.
+ 
+GTFS2GMNS can handle the transit data from several agencies. Users need to configure different sub-files in the same directory. Under the `test/GTFS` folder, a subfolder `Pheonix` with its owm GTFS data is set up.
 
 ### *Convert GTFS Data into GMNS Format*
 
 ```python
-import gtfs2gmns as gg
+if __name__ == '__main__':
+    global period_start_time
+    global period_end_time
+    input_gtfs_path = 'GTFS'
+    output_gmns_path = '.'
+    time_period_id = 1
+    time_period = '1200_1300'
+    period_start_time, period_end_time = _hhmm_to_minutes(time_period)
 
-path = 'Raleigh'
-gmns_path = '.'
-gg.converting(path,gmns_path)
+    gtfs2gmns(input_gtfs_path, output_gmns_path)
 ```
 
-The input parameter  `path` is the path of GTFS data, and the parameter  `gmns_path` is the path of output GMNS files.
+The input parameter  `input_gtfs_path` is the path of GTFS data, and the parameter  `output_gmns_path` is the path of output GMNS files. Users can custom the parameter  `time_period`, such as 12:00 to 13:00.
 
-The output files include node.csv, link.csv, trip.csv and route.csv.
+The output files include node.csv and link.csv.
 
 ## Main Steps
 
