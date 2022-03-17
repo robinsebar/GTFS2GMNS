@@ -2,7 +2,7 @@
 
 The open-source Python codes (GTFS2GMNS) is released to facilitate researchers and planners to construct the multi-modal transit networks easily from generic [General Transit Feed Specification (GTFS)](https://gtfs.org/) to the network modeling format in [General Modeling Network Specification (GMNS)](https://github.com/zephyr-data-specs/GMNS). The converted physical and service networks in GMNS format are more convenient for network modeling tasks such as transit network routing, traffic flow assignment, simulation and service network optimization.
 
-Please feel free to add your comments to our Google document of [gtfs2gmns Users' Guide](https://docs.google.com/document/d/1-A2g4ZjJu-gzusEKcSoOXzr95S3tv7sj/edit?usp=sharing&ouid=112385243549486266715&rtpof=true&sd=true). We would greatly appreciate your helping us to enhance our code.
+Please feel free to add your comments to our Google document of [GTFS2GMNS Users' Guide](https://docs.google.com/document/d/1-A2g4ZjJu-gzusEKcSoOXzr95S3tv7sj/edit?usp=sharing&ouid=112385243549486266715&rtpof=true&sd=true). We would greatly appreciate your helping us to enhance our code.
 
 
 ## Getting Started
