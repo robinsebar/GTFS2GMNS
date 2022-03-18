@@ -1,2 +1,0 @@
-agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_email
-"Valley Metro",https://www.valleymetro.org/,America/Phoenix,en,602-253-5000,csr@valleymetro.org
